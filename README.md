@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Geração de conto infantil através de prompt em IA Generativa ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook elaborado com ajuda de IA Generativa. Trata da criação de um conto infantil baseado na estória da Chapeuzinho Vermelho com apadtações solicitadas via prompt na IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Copilot para roteirização;
+IA Generativa OpenArt para criação das imagens;
+Editor de textos Word para edição;
+Impressora PDF do Windows para geração do arquivo PDF.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através de prompt no Copilot foi passado a sequinte orientação: "Inspirado na estória infantil conhecida com "Chapeuzinho Vermelho", crie uma nova estória, em formato de ebook, chamada "Sapatinho Azul". O personagem principal da estória é um menino e o vilão dela é um bruxo malvado. A estória deve ter narrativa e diálogos."
+O texto gerado na IA foi copiado e colado no Editor de Textos Word para edição e inserção das imagens.
+Na IA generativa de imagens foram solicitadas imagens de acordo com cada capítulo do ebook.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O conto em formato de ebook apresenta um conteúdo criativo, e mostra o uso da IA Genativa para contribuição para o processo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A elaboração do ebook foi uma experiência que demonstra o potencial existente das IAs e como elas podem ser aplicadas nas atividades cotidianas.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
