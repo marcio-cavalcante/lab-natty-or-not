@@ -18,6 +18,8 @@ Na IA generativa de imagens foram solicitadas imagens de acordo com cada capítu
 ## 🚀 Resultados
 O conto em formato de ebook apresenta um conteúdo criativo, e mostra o uso da IA Genativa para contribuição para o processo.
 
+Link: https://github.com/marcio-cavalcante/lab-natty-or-not/blob/main/exemplos/Sapatinho%20Azul.pdf
+
 ## 💭 Reflexão (Opcional)
 A elaboração do ebook foi uma experiência que demonstra o potencial existente das IAs e como elas podem ser aplicadas nas atividades cotidianas.
 ```
